@@ -58,7 +58,7 @@
 
 ### Final Words
 
-- If you have any questions, feel free to ask. You can reach me at linkedin.com/in/faisal-fida
+- If you have any questions, feel free to ask. You can reach me at [LinkedIn](https://www.linkedin.com/in/faisal-fida/)
 - If you like the project, please give it a star. It will be much appreciated.
 
 ### Credits
