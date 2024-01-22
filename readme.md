@@ -40,16 +40,16 @@
   "news": [
     {
       "title": "Pakistan, India agree to halt cross-border firing in Kashmir",
-      "link": "https://www.dawn.com/news/1603246/pakistan-india-agree-to-halt-cross-border-firing-in-kashmir",
-      "description": "The militaries of Pakistan and India agreed on Thursday to stop firing along the Line of Control (LoC) in disputed Kashmir, promising to adhere to a ceasefire agreement that has been largely ignored since it was first struck in 2003.",
-      "image": "https://www.dawn.com/news/1603246/pakistan-india-agree-to-halt-cross-border-firing-in-kashmir/media_gallery/normal/1611676499.jpg",
+      "link": "https://www.example.com/news/1603246/",
+      "description": "The militaries of Pakistan and India agreed on Thursday...",
+      "image": "https://www.example.com/image.jpg",
       "published": "2021-02-25T15:00:00+05:00"
     },
     {
       "title": "Pakistan, India agree to halt cross-border firing in Kashmir",
-      "link": "https://www.dawn.com/news/1603246/pakistan-india-agree-to-halt-cross-border-firing-in-kashmir",
-      "description": "The militaries of Pakistan and India agreed on Thursday to stop firing along the Line of Control (LoC) in disputed Kashmir, promising to adhere to a ceasefire agreement that has been largely ignored since it was first struck in 2003.",
-      "image": "https://www.dawn.com/news/1603246/pakistan-india-agree-to-halt-cross-border-firing-in-kashmir/media_gallery/normal/1611676499.jpg",
+      "link": "https://www.example.com/news/1603246/",
+      "description": "The militaries of Pakistan and India agreed on Thursday...",
+      "image": "https://www.example.com/image.jpg",
       "published": "2021-02-25T15:00:00+05:00"
     }
   ]
